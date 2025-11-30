@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal on </title>
+    <link>//localhost:61565/blog/</link>
+    <description>Recent content in Journal on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Nov 2023 09:00:00 -0500</lastBuildDate>
+    <atom:link href="//localhost:61565/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curating the Autumn Collection</title>
+      <link>//localhost:61565/blog/autumn-collection/</link>
+      <pubDate>Wed, 01 Nov 2023 09:00:00 -0500</pubDate>
+      <guid>//localhost:61565/blog/autumn-collection/</guid>
+      <description>&lt;p&gt;As the leaves turn golden and the air grows crisp, we are thrilled to unveil our Autumn Collection. This season, we are focusing on warmth, texture, and history.&lt;/p&gt;&#xA;&lt;p&gt;Expect to see rich mahogany furniture, brass accents, and textiles that invite you to curl up with a good book. We&amp;rsquo;ve scoured estate sales and hidden corners of the countryside to find pieces that tell a story.&lt;/p&gt;&#xA;&lt;p&gt;One of our favorite finds is a set of Victorian library chairs, upholstered in a deep, hunter green velvet. They are the perfect place to sit and watch the rain fall against the windowpane. We believe that your home should be a sanctuary, and this collection is designed to help you create just that.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Art of Restoring Vintage Frames</title>
+      <link>//localhost:61565/blog/restoring-vintage-frames/</link>
+      <pubDate>Sun, 15 Oct 2023 10:00:00 -0500</pubDate>
+      <guid>//localhost:61565/blog/restoring-vintage-frames/</guid>
+      <description>&lt;p&gt;There is a certain magic in taking an old, tarnished frame and breathing new life into it. The process is slow, deliberate, and deeply rewarding.&lt;/p&gt;&#xA;&lt;p&gt;In our latest project, we tackled a 19th-century gilded frame that had seen better days. The gold leaf was flaking, and the underlying gesso was cracked. It arrived at our shop covered in decades of dust, a shadow of its former glory.&lt;/p&gt;&#xA;&lt;p&gt;We started by carefully cleaning the surface, using gentle solvents to remove the grime without damaging the delicate gilding that remained. It&amp;rsquo;s a process that requires patience; a rush job here could ruin the piece forever. Once clean, we stabilized the flaking areas, injecting a conservation-grade adhesive behind the gold leaf.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
